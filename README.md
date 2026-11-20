@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,dotnet&theme=dark" width="85%" alt="Go, Rust, Python, Solidity, C#, .NET" />
+  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,dotnet&theme=dark" width="70%" alt="Go, Rust, Python, Solidity, C#, .NET" />
 </p>
 
 <p align="center">
   <a href="https://github.com/saviourmk">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full+Stack+%26+Blockchain+Engineer;Concurrent+backends+in+Go+and+Rust;Enterprise+apps+with+C%23+and+.NET;Python+for+data%2C+AI+and+automation;Secure%2C+gas-efficient+Solidity+contracts;Cloud+%26+DevOps+with+Docker+and+Kubernetes;From+idea+to+production%2C+end+to+end" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+%26+Blockchain+Engineer;Concurrent+backends+in+Go+and+Rust;Enterprise+apps+with+C%23+and+.NET;Python+for+data%2C+AI+and+automation;Secure%2C+gas-efficient+Solidity+contracts;Cloud+%26+DevOps+with+Docker+and+Kubernetes;From+idea+to+production%2C+end+to+end" alt="Typing intro" />
   </a>
 </p>
 
