@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,dotnet&theme=dark" height="125" alt="Go, Rust, Python, Solidity, C#, .NET" />
+  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,dotnet&perline=3&theme=dark" width="535" alt="Go, Rust, Python, Solidity, C#, .NET" />
 </p>
 
 <p align="center">
