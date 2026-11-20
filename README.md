@@ -1,34 +1,27 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B21B6,100:0891B2&height=200&section=header&text=Saviourmk&fontSize=80&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Saviourmk" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs&theme=dark" height="56" alt="Go, Rust, Python, Solidity, C#" />
+  <img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,dotnet&theme=dark" height="96" alt="Go, Rust, Python, Solidity, C#, .NET" />
 </p>
 
 <p align="center">
   <a href="https://github.com/saviourmk">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full+Stack+%26+Blockchain+Engineer;Concurrent+backends+in+Go+and+Rust;Enterprise+apps+with+C%23+and+.NET;Python+for+data%2C+AI+and+automation;Secure%2C+gas-efficient+Solidity+contracts;From+idea+to+production%2C+end+to+end" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full+Stack+%26+Blockchain+Engineer;Concurrent+backends+in+Go+and+Rust;Enterprise+apps+with+C%23+and+.NET;Python+for+data%2C+AI+and+automation;Secure%2C+gas-efficient+Solidity+contracts;Cloud+%26+DevOps+with+Docker+and+Kubernetes;From+idea+to+production%2C+end+to+end" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/saviourmk?tab=followers"><img src="https://img.shields.io/github/followers/saviourmk?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=saviourmk&label=Profile%20views&color=0891B2&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contracts-22C55E?style=for-the-badge" alt="Open to freelance and contracts" />
+  <a href="https://github.com/saviourmk?tab=followers"><img src="https://img.shields.io/github/followers/saviourmk?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers" /></a>  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contracts-22C55E?style=for-the-badge" alt="Open to freelance and contracts" />
 </p>
 
 <br />
 
 ## 👋 About me
 
-I'm a **full stack engineer** who builds fast, reliable software across the whole stack: concurrent backends in **Go** and **Rust**, enterprise apps and APIs in **C#** and **.NET**, data and automation in **Python**, secure smart contracts in **Solidity**, and polished web apps in **TypeScript** and **React**.
+I'm a **full stack engineer** who builds fast, reliable software across the whole stack: concurrent backends in **Go** and **Rust**, enterprise apps and APIs in **C#** and **.NET**, data and automation in **Python**, secure smart contracts in **Solidity**, polished web apps in **TypeScript** and **React**, and the cloud infrastructure that runs it all with **Docker**, **Kubernetes** and **Terraform**.
 
-I like owning a product end to end, from the database schema and the API to the contract on chain and the pixels on screen.
+I like owning a product end to end, from the database schema and the API to the contract on chain, the pixels on screen and the pipeline that ships it.
 
 - 🔭 Building production backends, Web3 dApps and AI-powered tools
-- 💬 Ask me about Go concurrency, Rust performance, .NET architecture, smart contract security and system design
+- 💬 Ask me about Go concurrency, Rust performance, .NET architecture, smart contract security, DevOps and system design
 - 🤝 Open to freelance projects, contract work and open source collaboration
 - ⚡ Fun fact: I pick the language for the problem, not the other way around
 
@@ -36,18 +29,30 @@ I like owning a product end to end, from the database schema and the API to the 
 
 ## 🛠️ What I build
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>⚙️ Backend & Systems</h3>
-      <sub><b>Go · Rust · C#</b></sub>
+      <sub><b>Go · Rust</b></sub>
       <ul>
         <li>High-throughput REST and gRPC APIs</li>
-        <li>ASP.NET Core services and enterprise backends</li>
         <li>Microservices and event-driven pipelines</li>
-        <li>Concurrency done right in Go, Rust and C#</li>
+        <li>Concurrency done right: goroutines, channels, async Rust</li>
+        <li>Low-latency services, CLI tools and WebAssembly</li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+      <h3>💠 .NET & Enterprise</h3>
+      <sub><b>C# · .NET · ASP.NET Core</b></sub>
+      <ul>
+        <li>ASP.NET Core Web APIs and microservices</li>
+        <li>Enterprise apps with Entity Framework Core</li>
+        <li>Clean architecture, CQRS and domain-driven design</li>
+        <li>Real-time features with SignalR and background workers</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⛓️ Smart Contracts & Web3</h3>
       <sub><b>Solidity · EVM</b></sub>
@@ -58,8 +63,6 @@ I like owning a product end to end, from the database schema and the API to the 
         <li>Fuzz-tested with Foundry, security-first design</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🐍 Python, Data & AI</h3>
       <sub><b>Python · FastAPI · Django</b></sub>
@@ -70,6 +73,8 @@ I like owning a product end to end, from the database schema and the API to the 
         <li>LLM integrations and AI agents</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🖥️ Full Stack Products</h3>
       <sub><b>TypeScript · React · Next.js</b></sub>
@@ -77,7 +82,17 @@ I like owning a product end to end, from the database schema and the API to the 
         <li>Responsive web apps and dApp frontends</li>
         <li>Auth, payments, dashboards and admin panels</li>
         <li>PostgreSQL and Redis data layers</li>
-        <li>CI/CD, Docker and cloud deployments</li>
+        <li>Fast, accessible and SEO-friendly UIs</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ DevOps & Cloud</h3>
+      <sub><b>Docker · Kubernetes · Terraform</b></sub>
+      <ul>
+        <li>Docker containers and Kubernetes clusters</li>
+        <li>Infrastructure as code with Terraform</li>
+        <li>CI/CD pipelines with GitHub Actions</li>
+        <li>AWS and GCP deploys with Prometheus and Grafana monitoring</li>
       </ul>
     </td>
   </tr>
@@ -90,19 +105,19 @@ I like owning a product end to end, from the database schema and the API to the 
 <table align="center">
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,ts,js,bash&theme=dark" height="44" alt="Languages" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go,rust,py,solidity,cs,ts,js,bash&theme=dark" height="44" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" height="44" alt="Frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" height="44" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,fastapi,django,flask,actix,graphql&theme=dark" height="44" alt="Backend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,fastapi,django,flask,actix,graphql&theme=dark" height="44" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Web3</b></td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
       <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
       <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge" alt="Foundry" />
@@ -118,11 +133,11 @@ I like owning a product end to end, from the database schema and the API to the 
   </tr>
   <tr>
     <td align="center"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma,kafka,rabbitmq&theme=dark" height="44" alt="Databases and messaging" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,prisma,kafka,rabbitmq&theme=dark" height="44" alt="Databases and messaging" /></td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,vercel,terraform,nginx,linux,githubactions,prometheus,grafana&theme=dark" height="44" alt="DevOps and cloud" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,vercel,terraform,nginx,linux,githubactions,prometheus,grafana&theme=dark" height="44" alt="DevOps and cloud" /></td>
   </tr>
 </table>
 
@@ -146,11 +161,11 @@ Replace REPO_ONE and REPO_TWO with your public repo names, then remove this comm
 
 <p align="center">
   <a href="https://github.com/saviourmk"><img src="https://img.shields.io/badge/GitHub-saviourmk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/saviour_mk"><img src="https://img.shields.io/badge/Telegram-%40saviour__mk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @saviour_mk" /></a>
   <!-- Add your contacts here (remove the comment marks around the ones you use):
   <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
 </p>
